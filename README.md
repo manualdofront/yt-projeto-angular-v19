@@ -1,4 +1,12 @@
-# YtProjetoV19
+# [YouTube] Projeto: Angular v19
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hhSslP4Eys8" target="_blank">
+ <img src="http://img.youtube.com/vi/hhSslP4Eys8/mqdefault.jpg" alt="Watch the video" border="10" />
+</a>
+
+> Clique na imagem acima e assista o vídeo!
+
+---
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0.
 
